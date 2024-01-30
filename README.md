@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ozemre0
+- 👋You can call me Emre
 - 👀 I’m interested in cross platform mobile app devolopment
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me 90+ 5417740429
