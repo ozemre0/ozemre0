@@ -2,7 +2,7 @@
 - Full name is Muhammet Emre Öz
 - 👋You can call me Emre
 - 👀 I’m interested in cross platform mobile app devolopment
-- 🌱 I’m currently learning flutter
+- 🌱 I use flutter to code my own apps
 - 📫 How to reach me 
 - www.linkedin.com/in/muhammet-emre-öz-4ab357283
 - ⚡ Fun fact i do fitness and video editing 
