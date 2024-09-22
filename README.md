@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me 
 - www.linkedin.com/in/muhammet-emre-öz-4ab357283
-- ⚡ Fun fact i do calisthenics 
+- ⚡ Fun fact i do fitness and video editing 
 
 <!---
 ozemre0/ozemre0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
